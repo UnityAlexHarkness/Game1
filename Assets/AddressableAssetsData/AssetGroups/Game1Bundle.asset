@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: 2c422be89893e4ef5a3a39e80dde304b
   m_SerializeEntries:
   - m_GUID: 931bb4317859c4495ac32aedef17b22c
-    m_Address: Assets/Scenes/Main.unity
+    m_Address: Game1Main
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 102900000, guid: 931bb4317859c4495ac32aedef17b22c, type: 3}
